@@ -1102,7 +1102,7 @@ Business Intelligence Enhanced:
 - **YouTube Data API v3** – Comment and transcript extraction
 - **Hugging Face Transformers** – Sentiment analysis with pre-trained models
 - **TensorFlow/Keras** – Custom neural network training and deployment
-- **Gemini AI** – Intelligent summarization and strategic analysis
+- **Gemini API** – Intelligent summarization and strategic analysis
 - **Python** – Data analysis, manipulation and Visualization
   - Libraries: `numpy`, `pandas`, `matplotlib`
 - **Production Tools** – Model serialization, API-ready prediction functions
