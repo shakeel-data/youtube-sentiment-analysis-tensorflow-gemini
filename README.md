@@ -337,7 +337,7 @@ def get_comments_summaries(batches):
     summaries = []
 
     for i, batch in enumerate(batches):
-        print(f"Processing batch {i+1}/{len(batches)}...")
+        print(f"Processing batch {i+1}/{len(batches)}...") 
         response = client.chat.completions.create(
             model="gemini-2.5-flash",
             messages=[
